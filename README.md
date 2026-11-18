@@ -1,8 +1,8 @@
 ### Hi, I'm Vito Prpić 👋
 
-- 🎓 Student na Tehničkom veleučilištu u Zagrebu
-- 💻 Trenutno radim na web aplikacijama u Angularu i .NET-u
-- 🌱 Učim: Angular, .NET-u
+- 🎓 Student at Tehničkom veleučilištu in Zagrebu
+- 💻 Currently working on web aplications in Angular and .NET
+- 🌱 Studying: Angular, .NET-u
 
 ## 🌐 Socials:
 <div align="left">
