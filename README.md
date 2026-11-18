@@ -13,4 +13,6 @@
   </a>
 </div>
 
+_(clicing on logos will transfer you to my contacts automatically)_
+
 
